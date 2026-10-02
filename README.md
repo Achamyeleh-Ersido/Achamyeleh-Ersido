@@ -1,8 +1,8 @@
 # Hi, I'm Achamyeleh 👋
 
-### Full-Stack Web Developer
+### Full-Stack Software Developer
 
-I build scalable web applications and backend systems using
+I build scalable web and mobile applications and backend systems using
 modern JavaScript/TypeScript and Python technologies.
 
 ---
