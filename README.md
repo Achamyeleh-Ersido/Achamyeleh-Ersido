@@ -9,8 +9,8 @@ modern JavaScript/TypeScript and Python technologies.
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Web Developer
-- ⚡ Building web applications and APIs
+- 💻 Full-Stack software Developer
+- ⚡ Building web and mobile applications and APIs
 - 🔧 Interested in scalable backend systems
 - 🌱 Currently improving my system design and cloud skills
 - 📍 Addis Ababa, Ethiopia
